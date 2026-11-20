@@ -1,16 +1,16 @@
-## Hi there 👋
+# Bonjour, je suis Othniel Djevie 👋
 
-<!--
-**scevaothnieldjevie-sudo/Scevaothnieldjevie-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je m'intéresse au développement d'applications web et à la conception de solutions informatiques.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies
+- PHP
+- MySQL
+- JavaScript
+- BootStrap
+- HTML5 / CSS3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projets
+Je développe des applications informatiques pour répondre à des besoins concrets.
+
+### 🎯 Objectif
+Continuer à progresser dans le développement informatique et participer à des projets professionnels.
